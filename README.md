@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Yitan Li!
+- 💻 Computer Science & Engineering student at NYU Shanghai
+- 🌱 Interested in blockchain, video games
+- 🧠 Currently working on a decentralized messaging app capstone
+- 🎓 Expected to graduate in May 2025
 
-<!--
-**KevinLYT/KevinLYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, C++, SQL, Solidity
+- **Tools:** Microsoft Office, Unity, MySQL
+- **Frameworks:** thirdweb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🚀 Projects
+- [**PandaEyes NFT Project**](https://x.com/PandaEyesNFT)(https://pandaeyes.io/): Designed website and running the official twitter(X).
+
+
