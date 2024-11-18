@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yitan Li!
+# 👋 Hi, I'm Kevin Li!
 - 💻 Computer Science & Engineering student at NYU Shanghai
 - 🌱 Interested in blockchain, video games
 - 🧠 Currently working on a decentralized messaging app capstone
