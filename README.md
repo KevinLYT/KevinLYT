@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-- **Languages:** Python, C++, SQL, Solidity
+- **Languages:** Python, C, C++, Java, SQL, Solidity
 - **Tools:** Microsoft Office, Unity, MySQL
 - **Frameworks:** thirdweb
 
