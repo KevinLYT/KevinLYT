@@ -12,5 +12,6 @@
 
 - ## 🚀 Projects
 - [**PandaEyes NFT Project**](https://x.com/PandaEyesNFT)(https://pandaeyes.io/): Designed website and running the official twitter(X).
+- [**Gas Estimation on Local Chain**](https://github.com/KevinLYT/ContractProject): Designed the way to estimate gas cost of smart contracts with building local chains.
 
 
