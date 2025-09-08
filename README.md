@@ -12,7 +12,7 @@
 
 - ## 🚀 Projects
 - [**PandaEyes NFT Project**](https://x.com/PandaEyesNFT)(https://pandaeyes.io/): Designed website and running the official twitter(X).
-- [**Decentralized Messaging App](https://github.com/ChenYujunjks/NYUSH_Capstone_Project):Participated in designing the frontend and wrote the smart contract.
+- [**Decentralized Messaging App**](https://github.com/ChenYujunjks/NYUSH_Capstone_Project):Participated in designing the frontend and wrote the smart contract.
 - [**Gas Estimation on Local Chain**](https://github.com/KevinLYT/ContractProject): Designed the way to estimate gas cost of smart contracts with building local chains.
 
 
