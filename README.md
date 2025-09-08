@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kevin Li!
-- 💻 Computer Science & Engineering student at NYU Shanghai
-- 🌱 Interested in blockchain, video games
-- 🧠 Currently working on a decentralized messaging app capstone
-- 🎓 Expected to graduate in May 2025
+- 💻 MSCS in NYU Courant in NYC.
+- 🌱 Interested in blockchain, SWE.
+- 🧠 Currently looking for an internship in the USA.
+- 🎓 Expected to graduate in May 2027.
 
 
 ## 🛠 Skills
