@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kevin Li!
-- 💻 MSCS in NYU Courant in NYC.
+- 💻 MSCS NYU Courant in NYC.
 - 🌱 Interested in blockchain, SWE.
 - 🧠 Currently looking for an internship in the USA.
 - 🎓 Expected to graduate in May 2027.
