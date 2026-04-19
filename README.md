@@ -17,7 +17,7 @@ Built a FastAPI backend that analyzes blockchain wallet behavior and generates s
 ### [Zero-Knowledge Proof Demo](https://github.com/KevinLYT/zk_proof_demo)
 Implemented Circom and snarkjs based zk-SNARK pipelines for Poseidon hash proofs and Merkle membership proofs, then connected the workflow to an on-chain Groth16 verifier on Polygon.
 
-### Decentralized Messaging App
+### [Decentralized Messaging App](https://github.com/KevinLYT/Dapp-on-Polygon)
 Developed a messaging DApp with a Next.js frontend and Solidity smart contracts on Polygon, supporting wallet-based authentication, encrypted message flow, and contract-integrated interactions.
 
 ## Technical Toolkit
@@ -36,5 +36,4 @@ Developed a messaging DApp with a Next.js frontend and Solidity smart contracts 
 - GitHub: [KevinLYT](https://github.com/KevinLYT)
 
 Thanks for stopping by.
-
 
